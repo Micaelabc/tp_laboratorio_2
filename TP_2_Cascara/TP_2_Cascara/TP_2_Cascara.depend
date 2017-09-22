@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1506059057 source:c:\users\equipo\desktop\tp_2_cascarasegundo\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1506059035 c:\users\equipo\desktop\tp_2_cascarasegundo\tp_2_cascara\tp_2_cascara\funciones.h
+
+1506059035 source:c:\users\equipo\desktop\tp_2_cascarasegundo\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+
+1506059688 source:c:\users\micae\desktop\tp_2_cascarasegundo\tp_2_cascarasegundo\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+
+1506113818 c:\users\micae\desktop\tp_2_cascarasegundo\tp_2_cascarasegundo\tp_2_cascara\tp_2_cascara\funciones.h
+
+1506059744 source:c:\users\micae\desktop\tp_2_cascarasegundo\tp_2_cascarasegundo\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1506119853 source:c:\users\equipo\downloads\tp_2_cascarasegundo (1)\tp_2_cascarasegundo\tp_2_cascarasegundo\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+
+1506120008 c:\users\equipo\downloads\tp_2_cascarasegundo (1)\tp_2_cascarasegundo\tp_2_cascarasegundo\tp_2_cascara\tp_2_cascara\funciones.h
+
+1506120615 source:c:\users\micae\desktop\tp_2_cascarasegundo (1)corregido\tp_2_cascarasegundo (1)corregido\tp_2_cascarasegundo\tp_2_cascarasegundo\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1506122460 c:\users\micae\desktop\tp_2_cascarasegundo (1)corregido\tp_2_cascarasegundo (1)corregido\tp_2_cascarasegundo\tp_2_cascarasegundo\tp_2_cascara\tp_2_cascara\funciones.h
+
+1506121293 source:c:\users\micae\desktop\tp_2_cascarasegundo (1)corregido\tp_2_cascarasegundo (1)corregido\tp_2_cascarasegundo\tp_2_cascarasegundo\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+
